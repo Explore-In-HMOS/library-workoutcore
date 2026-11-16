@@ -1,0 +1,9 @@
+{
+  "module": {
+    "name": "WorkoutCore",
+    "type": "har",
+    "deviceTypes": [
+      "wearable"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "WorkoutCore sample wearables application",
+  "main": "",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@explore-in-hmos/workoutcore": "^1.0.0"
+  }
+}

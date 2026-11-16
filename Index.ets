@@ -1,0 +1,18 @@
+export { TrackingConfig } from './src/main/ets/api/TrackingConfig';
+export { TrackingConfigBuilder } from './src/main/ets/api/TrackingConfigBuilder';
+export { TrackingClient } from './src/main/ets/api/TrackingClient';
+export { TrackingUpdate, TrackingListener, TrackError, TrackErrorCode, TrackPoint } from './src/main/ets/models/TrackingListener';
+export { DistanceSource, DistanceUnit, SourceState, SportType } from './src/main/ets/models/TrackingTypes';
+export { ClimbTracker } from './src/main/ets/api/ClimbTracker';
+export { ClimbCalculator } from './src/main/ets/domain/climb/ClimbCalculator';
+export { defaultClimbOptions } from './src/main/ets/models/ClimbTypes';
+export type { ClimbData, ClimbOptions } from './src/main/ets/models/ClimbTypes';
+export type { ClimbListener } from './src/main/ets/api/ClimbTracker';
+export { SwimStyle } from './src/main/ets/domain/swim/SwimStyleClassifier';
+export { GpsAutoPause } from './src/main/ets/domain/autopause/GpsAutoPause';
+export { PauseState, defaultAutoPauseOptions } from './src/main/ets/models/AutoPauseTypes';
+export type { AutoPauseOptions } from './src/main/ets/models/AutoPauseTypes';
+export { defaultSpeedFilterOptions } from './src/main/ets/models/SpeedFilterTypes';
+export type { SpeedFilterOptions, FilteredSpeedResult } from './src/main/ets/models/SpeedFilterTypes';
+export { RoutePoint, RouteRecorder } from './src/main/ets/domain/route/RouteRecorder';
+export { LogLevel, Logger } from './src/main/ets/util/Logger';

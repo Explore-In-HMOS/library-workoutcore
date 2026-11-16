@@ -1,0 +1,36 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "WORKOUT CORE"
+    },
+    {
+      "name": "location_switch",
+      "value": "The location switch is off, please check the location settings"
+    },
+    {
+      "name": "internet_switch",
+      "value": "The network is disconnected, please check the network settings"
+    },
+    {
+      "name": "wifi_bluetooth_switch",
+      "value": "WiFi or Bluetooth is off, please check the settings"
+    },
+    {
+      "name": "Step_Permission",
+      "value": "Access accelerometer for workout"
+    },
+    {
+      "name": "Haptic_Permission",
+      "value": "Workout Haptic feedbacks"
+    }
+  ]
+}
